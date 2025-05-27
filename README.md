@@ -71,14 +71,6 @@ Each JSON file contains the following structure:
 }
 ```
 
-## Question Types
-
-The dataset includes multiple question types:
-
-- **Spatial relation**: Questions about relative positions between objects
-- **Navigation**: Questions related to movement directions
-- **Object**: Questions about identifying specific objects in a scene
-
 ## Usage
 
 ### Loading Data
@@ -112,27 +104,3 @@ print("Question counts by type:")
 for t, count in type_counts.items():
     print(f"  - {t}: {count}")
 ```
-
-## Citation
-
-If you use the Real-3DQA dataset in your research, please cite it using the following format:
-
-```
-@dataset{real3dqa2025,
-  title = {Real-3DQA: A Dataset for Testing 3D Visual Understanding},
-  author = {Real-3DQA Team},
-  year = {2025},
-  url = {https://github.com/joey/Real-3DQA}
-}
-```
-
-## License
-
-This dataset is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-## Contact
-
-For questions or suggestions, please contact us through:
-
-- GitHub Issues: [Submit an issue](https://github.com/joey/Real-3DQA/issues)
-- Email: [your-email@example.com]
