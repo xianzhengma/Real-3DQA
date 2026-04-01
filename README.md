@@ -39,6 +39,7 @@
   <a href="https://real-3dqa.github.io/"><img src="https://img.shields.io/badge/🌐-Project_Page-blue" alt="Project Page"></a>
   <a href="http://arxiv.org/abs/2603.23523"><img src="https://img.shields.io/badge/📝-arXiv-B31B1B" alt="arXiv"></a>
   <a href="https://huggingface.co/datasets/Oliver-Ma/Real-3DQA"><img src="https://img.shields.io/badge/🤗-HuggingFace_Dataset-yellow" alt="HuggingFace"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xianzhengma.Real-3DQA" alt="visitors"/>
 </p>
 
 ---
